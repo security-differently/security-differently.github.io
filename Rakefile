@@ -61,14 +61,11 @@ task test: :build do
     enforce_https: false,
     ignore_status_codes: [403, 503, 999],
     ignore_urls: [
-      # URLs time out
-      'https://research-repository.griffith.edu.au/bitstream/handle/10072/389308/Provan268657-Published.pdf?sequence=5',
-      # URLs require authentication
-      'https://groups.google.com/forum/#!msg/sira-public/T17qkvbwNhA/J42QjxbHAAAJ',
-      'https://societyinforisk.org/page-18117#Benninghoff21',
-      'https://societyinforisk.org/page-18130#Benninghoff22',
-      'https://societyinforisk.org/siracon19#elliotnotebooks',
-      'https://societyinforisk.org/siracon23#jb23'
+      # ignore missing icons
+      '/assets/favicon.ico',
+      '/assets/icon-hd.png',
+      '/assets/icon.png',
+      %r{/assets/touch-icon-.*\.png$}
     ]
   }
   begin

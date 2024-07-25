@@ -1,0 +1,54 @@
+# Setup
+title:               Security Differently
+tagline:             A new evidence-based cybersecurity practice adapted from safety.
+url:                 https://security-differently.github.io
+#paginate:            3
+baseurl:             ""
+permalink:           pretty
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+
+# Optimize Jekyll
+exclude:
+  - .git
+  - .github
+  - .gitignore
+  - .rubocop.yml
+  - .ruby-version
+  - .vscode
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Rakefile
+  - bootstrap.sh
+  - poole-LICENSE.md
+  - tmp
+  - vendor
+
+sass:
+  sass_dir:          _sass
+  style:             compressed
+
+# Links to include in the masthead.
+masthead_links:
+  About:             '/about/'
+  Services:          '/services/'
+  Team:              '/team/'
+#  Posts:             '/posts/'
+#  Archive:           '/archive/'
+
+# Disqus settings
+#disqus_url:          NA
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+#google_analytics:    NA
+
+# poole custom vars prevent builds from working properly (invokes github-metadata) - see https://github.com/jekyll/jekyll/issues/4705
+# Custom vars
+#version:             3.0.0
