@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Archive
+title: Posts
 ---
-
-# Archive
-
-Browse all posts by month and year.
+Posts on Security Differently.
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
