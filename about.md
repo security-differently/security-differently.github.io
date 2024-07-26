@@ -27,7 +27,6 @@ How does this work in practice? The table below highlights key differences betwe
 |Training focused on awareness and compliance|Training focused on behaviors that promote security and learning|
 |Security is a cost|Security is an investment|
 
-<!--
 ## Further Reading
 
 Posts on Security Differently, newest first:
@@ -40,4 +39,3 @@ Posts on Security Differently, newest first:
     </li>
   {% endfor %}
 </ul>
--->

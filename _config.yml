@@ -2,7 +2,6 @@
 title:               Security Differently
 tagline:             An evidence-based practice adapted from safety.
 url:                 https://security-differently.github.io
-#paginate:            3
 baseurl:             ""
 permalink:           pretty
 
@@ -38,8 +37,7 @@ masthead_links:
   About:             '/about/'
   Services:          '/services/'
   Team:              '/team/'
-#  Posts:             '/posts/'
-#  Archive:           '/archive/'
+  Posts:             '/posts/'
 
 # Disqus settings
 #disqus_url:          NA
