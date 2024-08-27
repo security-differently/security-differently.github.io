@@ -53,6 +53,8 @@ task test: :build do
     enforce_https: false,
     ignore_status_codes: [403, 503, 999],
     ignore_urls: [
+      # URLs time out
+      'https://naspweb.com/blog/what-is-safety-differently/',
       # ignore missing icons
       '/assets/favicon.ico',
       '/assets/icon-hd.png',
