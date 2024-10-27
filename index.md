@@ -41,11 +41,11 @@ compare-row12-col1: Training focused on awareness and compliance
 compare-row12-col2: Training focused on behaviors that promote security and learning
 compare-row13-col1: Security is a cost 
 compare-row13-col2: Security is an investment
-compare-caption: Fig 1.1 The key differences between Traditional Cybersecurity and Security Differently.
+compare-caption: Key differences between Traditional Cybersecurity and Security Differently.
 
 cta-title: Dive Deeper
 cta-content: <p>Ready to challenge traditional security models? Uncover new insights from the Security Differently <a href="https://site.pheedloop.com/event/2024secure360/schedule/SESCYVQSVJOZK6AB8" target="_blank">Secure360</a> talk.</p>
-cta-btn-url: https://www.security-differently.com/assets/security-differently.pdf
+cta-btn-url: /assets/security-differently.pdf
 cta-btn-label: View Slides
 
 services-title: Services
@@ -62,7 +62,6 @@ resource-two-content: <ul><li>Coming Soon</li></ul>
 
 contact-title: <em>John Benninghoff</em> has been doing security differently for over 25 years.
 contact-content: <p>John’s career includes diverse experience in financial services, retail, government, and health care, supporting infrastructure, software development, and Site Reliability Engineering. John holds a Masters of Science in Psychology from the Managing Risk and Systems Change program at Trinity College Dublin, where he applied lessons from safety science to technology.</p>
-
 
 ---
 
