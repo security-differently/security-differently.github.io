@@ -6,7 +6,7 @@ hero-title: An <em>evidence-based</em> practice adapted from <em>safety</em>.
 hero-btn: Request a Consultation
 
 intro-title: A Positive Approach to <em>Cybersecurity</em>
-intro-content: <p>Instead of telling people what they can’t do, we integrate security into how work gets done in your organization, building on your strengths and improving your security performance, so that you are prepared when your systems are (inevitably) attacked.</p><p>A positive approach to cybersecurity improves organizational performance, employee engagement, learning and resilience. We adapt the latest data-driven research to your operations so that you can successfully prevent, detect, respond, and recover from security incidents.</p><p><a href="#contact">Contact Us</a> to learn more about how you can do more with your security investments!</p>
+intro-content: <p>Instead of telling people what they <em>can’t</em> do, we integrate security into how work gets done in your organization, building on your strengths and improving your security performance, so that you are prepared when your systems are (inevitably) attacked.</p><p>A positive approach to cybersecurity improves organizational performance, employee engagement, learning and resilience. We adapt the latest data-driven research to your operations so that you can successfully prevent, detect, respond, and recover from security incidents.</p><p><a href="#contact">Contact Us</a> to learn more about how you can do more with your security investments!</p>
 
 core-principle-title: Our Core Principles
 core-principle-one: <h4><em>Learning</em> over compliance.</h4><p>Promote good outcomes and behaviors instead of preventing bad outcomes and behaviors.</p>
