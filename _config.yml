@@ -1,14 +1,20 @@
+# Site
 title: Security Differently
+url: https://www.security-differently.com
+baseurl: ""
+permalink: pretty
+
+# Templates
 email: john@security-differently.com
 phone: 16128025368
 phone-formatted: (612) 802-5368
 social-linkedin: https://www.linkedin.com/in/jbenninghoff/
 
 current-year: 2024
-copyright: Security Differently.  All Rights Reserved.
+copyright: Security Differently. All Rights Reserved.
 
 meta-description:
-meta-keywords: 
+meta-keywords:
 
 # Exclude ruby framework
 exclude:

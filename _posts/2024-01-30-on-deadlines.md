@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: single
 title: On Deadlines
-author: jabenninghoff
-tags: ["Safety", "Security Differently"]
-comments: true
+tags: ["article"]
 ---
 *originally posted on <https://www.information-safety.org>*
 

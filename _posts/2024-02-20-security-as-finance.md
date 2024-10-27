@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: single
 title: Running Security like Finance
-author: jabenninghoff
-tags: ["Security Differently"]
-comments: true
+tags: ["article"]
 ---
 *originally posted on <https://www.information-safety.org>*
 
