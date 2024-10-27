@@ -1319,3 +1319,29 @@ body.single-page .single-content-area {
   padding: 40px;
 }
 
+/*===== Content Styles =====*/
+
+.content ul, ol {
+  padding-left: 1.5rem;
+}
+
+.content blockquote {
+  padding: .5rem 1rem;
+  color: var(--gray-2);
+  p {
+    color: var(--gray-2);
+  }
+  border-left: .25rem solid var(--gray-2);
+
+  :first-child {
+    margin-top: 0;
+  }
+  :last-child {
+    margin-bottom: 0;
+  }
+
+  @media (min-width: 30em) {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}
