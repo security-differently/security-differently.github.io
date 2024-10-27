@@ -331,9 +331,23 @@
         <div class="col-12"> 
           <div class="resource-list">
             <h4>{{ page.resource-type-one }}</h4>
-            {{ page.resource-one-content }}
+            {% assign sd_posts = site.posts | where: "tags", "article" %}
+            <ul>
+              {% for post in sd_posts %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>            
             <h4>{{ page.resource-type-two }}</h4>
-            {{ page.resource-two-content }}
+            {% assign sd_posts = site.posts | where: "tags", "whitepaper" %}
+            <ul>
+              {% for post in sd_posts %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>            
           </div>
         </div>
       </div>

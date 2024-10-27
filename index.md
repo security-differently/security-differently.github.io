@@ -56,9 +56,7 @@ service-four: <h4>Consulting</h4><p>Need something else? We can be your trusted 
 
 resources-title: Resources
 resource-type-one: Articles
-resource-one-content: <ul><li><a href="https://www.security-differently.com/2024/10/16/cybersecurity-for-startups/">Cybersecurity for Startups and Small Businesses</a><li><a href="https://www.security-differently.com/2024/05/28/phishing-training/">Does Phishing Training Work?</a></li><li><a href="https://www.security-differently.com/2024/02/20/security-as-finance/">Running Security like Finance</a></li><li><a href="https://www.security-differently.com/2024/01/30/on-deadlines/">On Deadlines</a></li><li><a href="https://www.security-differently.com/2023/10/31/security-differently/">Security Differently</a></li></ul>
 resource-type-two: White Papers
-resource-two-content: <ul><li>Coming Soon</li></ul>
 
 contact-title: <em>John Benninghoff</em> has been doing security differently for over 25 years.
 contact-content: <p>John’s career includes diverse experience in financial services, retail, government, and health care, supporting infrastructure, software development, and Site Reliability Engineering. John holds a Masters of Science in Psychology from the Managing Risk and Systems Change program at Trinity College Dublin, where he applied lessons from safety science to technology.</p>
