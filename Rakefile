@@ -52,15 +52,7 @@ task test: :build do
     },
     enforce_https: false,
     ignore_status_codes: [403, 503, 999],
-    ignore_urls: [
-      # URLs time out
-      'https://naspweb.com/blog/what-is-safety-differently/',
-      # ignore missing icons
-      '/assets/favicon.ico',
-      '/assets/icon-hd.png',
-      '/assets/icon.png',
-      %r{/assets/touch-icon-.*\.png$}
-    ]
+    ignore_urls: []
   }
   begin
     HTMLProofer.check_directory('./_site', options).run

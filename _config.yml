@@ -1,16 +1,16 @@
-# Setup
-title:               Security Differently
-tagline:             An evidence-based practice adapted from safety.
-url:                 https://security-differently.github.io
-baseurl:             ""
-permalink:           pretty
+title: Security Differently
+email: john@security-differently.com
+phone: 16128025368
+phone-formatted: (612) 802-5368
+social-linkedin: https://www.linkedin.com/in/jbenninghoff/
 
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
+current-year: 2024
+copyright: Security Differently.  All Rights Reserved.
 
-# Optimize Jekyll
+meta-description:
+meta-keywords: 
+
+# Exclude ruby framework
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -18,29 +18,5 @@ exclude:
   - Rakefile
   - bootstrap.sh
   - clean.sh
-  - poole-LICENSE.md
   - tmp
   - vendor
-
-sass:
-  sass_dir:          _sass
-  style:             compressed
-
-# Links to include in the masthead.
-masthead_links:
-  About:             '/about/'
-  Services:          '/services/'
-  Team:              '/team/'
-  Posts:             '/posts/'
-
-# Disqus settings
-#disqus_url:          NA
-
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-#google_analytics:    NA
-
-# poole custom vars prevent builds from working properly (invokes github-metadata) - see https://github.com/jekyll/jekyll/issues/4705
-# Custom vars
-#version:             3.0.0
