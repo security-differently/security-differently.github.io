@@ -1,6 +1,6 @@
 # Security Differently
 
-This is the public source repository for Security Differently, <https://security-differently.github.io>
+This is the public source repository for Security Differently, <https://www.security-differently.com>
 
 [![ruby](https://github.com/security-differently/security-differently.github.io/workflows/ruby/badge.svg)](https://github.com/security-differently/security-differently.github.io/actions)
 
