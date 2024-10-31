@@ -4,7 +4,7 @@ layout: default
 
 hero-title: An <em>evidence-based</em> practice adapted from <em>safety</em>.
 hero-btn: Request a Consultation
-hero-btn-url: '#contact'
+hero-btn-url: https://calendly.com/john-security-differently/30min
 
 intro-title: A Positive Approach to <em>Cybersecurity</em>
 intro-content: <p>Instead of telling people what they <em>can’t</em> do, we integrate security into how work gets done in your organization, building on your strengths and improving your security performance, so that you are prepared when your systems are (inevitably) attacked.</p><p>A positive approach to cybersecurity improves organizational performance, employee engagement, learning and resilience. We adapt the latest data-driven research to your operations so that you can successfully prevent, detect, respond, and recover from security incidents.</p><p><a href="#contact">Contact Us</a> to learn more about how you can do more with your security investments!</p>
