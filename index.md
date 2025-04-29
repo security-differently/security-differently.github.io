@@ -58,6 +58,7 @@ service-four: <h4>Consulting</h4><p>Need something else? We can be your trusted 
 resources-title: Resources
 resource-type-one: Articles
 resource-type-two: White Papers
+resource-type-three: Videos
 
 contact-title: <em>John Benninghoff</em> has been doing security differently for over 25 years.
 contact-content: <p>John’s career includes diverse experience in financial services, retail, government, and health care, supporting infrastructure, software development, and Site Reliability Engineering. John holds a Masters of Science in Psychology from the Managing Risk and Systems Change program at Trinity College Dublin, where he applied lessons from safety science to technology.</p>
