@@ -57,7 +57,13 @@ task test: :build do
     },
     enforce_https: false,
     ignore_status_codes: [403, 429, 503, 999],
-    ignore_urls: []
+    ignore_urls: [
+      # URL not resolving
+      # URLs time out
+      # URL connection failure
+      'https://www.twincitiesstartupweek.com/'
+      # URLs require authentication
+    ]
   }
   begin
     HTMLProofer.check_directory('./_site', options).run
