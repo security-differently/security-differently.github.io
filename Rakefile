@@ -61,7 +61,6 @@ task test: :build do
       # URL not resolving
       # URLs time out
       # URL connection failure
-      'https://www.twincitiesstartupweek.com/'
       # URLs require authentication
     ]
   }

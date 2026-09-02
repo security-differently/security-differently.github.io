@@ -3,7 +3,7 @@ layout: single
 title: Cybersecurity for Startups and Small Businesses
 tags: ["whitepaper"]
 ---
-While attending [Twin Cities Startup Week](https://www.twincitiesstartupweek.com/) last month, I was inspired to write a whitepaper on cybersecurity for startups and small businesses. Most small organizations don't have the resources to hire a full-time security expert or even to hire a consultant. Fortunately, the key habits needed for good cybersecurity don't require specialized security expertise! Our whitepaper covers those key habits in a short 5 page document.
+While attending [Twin Cities Startup Week](https://tcstartupweek.com) last month, I was inspired to write a whitepaper on cybersecurity for startups and small businesses. Most small organizations don't have the resources to hire a full-time security expert or even to hire a consultant. Fortunately, the key habits needed for good cybersecurity don't require specialized security expertise! Our whitepaper covers those key habits in a short 5 page document.
 
 From the introduction:
 
